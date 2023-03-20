@@ -47,7 +47,7 @@ public class VogaisFragment extends Fragment {
         fragment.setArguments(args);
         return fragment;
     }
-
+///comentariogfgfggfgfgfggfgfgfgf
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
